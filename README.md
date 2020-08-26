@@ -1,7 +1,4 @@
 # and-roids
 Android app to track calorie intake and exercise
 
-open to other naming suggestions
-candidates include
-Wheezr
-fitmess
+like other apps that shall remain unnamed, but it doesn't sell your information to spammers
